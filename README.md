@@ -42,7 +42,6 @@ Security Group (SSH 22 許可 / アウトバウンド全許可)
 
 ```
 .
-├── CLAUDE.md          # Claude Code 用ガイドライン
 ├── README.md          # 本ファイル
 ├── .gitignore         # .terraform/ や *.tfstate などを除外
 ├── provider.tf        # terraform / provider ブロック（HCP Terraform backend, required_providers）
