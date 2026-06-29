@@ -2,7 +2,7 @@ terraform {
   # HCP Terraform (Terraform Cloud) を実行環境として利用する
   # organization は自分の環境に合わせて書き換えること
   cloud {
-    organization = "<your-org>"
+    organization = "saito-mikio-terraform"
 
     workspaces {
       name = "tf-handson-aws"
